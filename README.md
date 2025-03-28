@@ -47,10 +47,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-<!-- 사용한 언어 순위 -->
+<!-- 사용한 언어 순위
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainshot00&layout=compact&theme=algolia)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainshot00&layout=compact&theme=algolia) 
+ -->
+ 
 <!-- Github Stats Card -->
 ## Github Stats
 [![rainshot00's Github stats](https://github-readme-stats.vercel.app/api?username=rainshot00&show_icons=true&theme=tokyonight)](https://github.com/rainshot00/github-readme-stats)
